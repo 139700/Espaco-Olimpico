@@ -1,4 +1,3 @@
-# Espaco-Olimpico
 O objetivo deste projeto foi criar um site que facilitasse o acesso da população ao registro de permissão para realizar atividades na Vila Olímpica.
 
 Para rodar o projeto, siga os seguintes passos:
