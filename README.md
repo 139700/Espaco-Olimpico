@@ -4,7 +4,7 @@ Para rodar o projeto, siga os seguintes passos:
 
 Abra a pasta modulo6-novo
 Abra o terminal
-Dê cd modulo6
+Dê cd projeto-olimpico
 npm run dev (back)
 npm install (para instalar o React)
 Abra um novo terminal
